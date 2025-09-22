@@ -2,7 +2,6 @@ Hi, I'm Rafi 👋
 ---
 **📌About** <br>
 I am a Game Application and Technology student at BINUS University specializing in game development. I have worked on multiple projects, using Unity (C#) and using Godot (GDScript). My experience includes designing and programming core gameplay mechanics, implementing player controls, creating interactive environments, and developing user interfaces
-I'm passionate about immersive technology, especially XR applications. I develop training and simulation apps for health and safety, educational applications, and engaging immersive marketing content.
 
 **📩Email** <br>
 Muhammad.ramadhan095@binus.ac.id
