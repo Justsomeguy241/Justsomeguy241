@@ -1,12 +1,11 @@
-Hi, I'm Fajar 👋
+Hi, I'm Rafi 👋
 ---
 **📌About** <br>
-Hi, I'm Muhamad Fajar, also known as Fajarnadril. I specialize in XR development, visual design, research, and teaching. I've created various educational apps for institutions and state-owned enterprises, highlighting my skills in XR and visual design.
-
+I am a Game Application and Technology student at BINUS University specializing in game development. I have worked on multiple projects, using Unity (C#) and using Godot (GDScript). My experience includes designing and programming core gameplay mechanics, implementing player controls, creating interactive environments, and developing user interfaces
 I'm passionate about immersive technology, especially XR applications. I develop training and simulation apps for health and safety, educational applications, and engaging immersive marketing content.
 
 **📩Email** <br>
-hi@fajar.io
+Muhammad.ramadhan095@binus.ac.id
 
 <br>
 
