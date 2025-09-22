@@ -30,7 +30,7 @@ Muhammad.ramadhan095@binus.ac.id
       <td valign="text-top">TBA</td> <!--desc-->
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/fajarnadril/Project-Stir">Read More</a></td> <!--link1-->
+      <td align="center"><a href="https://github.com/Justsomeguy241/Game-ProgrammingClass">Read More</a></td> <!--link1-->
       <td align="center"><a href="https://u2studio.itch.io/hopeless">Read More</a></td> <!--link2-->
     </tr>
   </tbody>
