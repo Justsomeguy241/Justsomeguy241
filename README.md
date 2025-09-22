@@ -47,17 +47,17 @@ Muhammad.ramadhan095@binus.ac.id
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a>TBA </a></th> <!--tittle 3-->
+      <th width="50%" align="center"><a>Passing Years </a></th> <!--tittle 3-->
       <th width="50%" align="center"><a>TBA </a></th> <!--tittle 4-->
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://www.shevia.id/assets/img/product/shevia-fire/3.png" alt="1" style="width:100%;height:auto;">
+        <img src="https://github.com/Justsomeguy241/Justsomeguy241/blob/main/Godot.gif" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="https://www.shevia.id/assets/img/product/shevia-ar/1.png" alt="2" style="width:100%;height:auto;">
+        <img src="" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
