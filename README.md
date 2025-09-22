@@ -33,10 +33,6 @@ Muhammad.ramadhan095@binus.ac.id
       <td align="center"><a href="https://github.com/fajarnadril/Project-Stir">Read More</a></td> <!--link1-->
       <td align="center"><a href="https://u2studio.itch.io/hopeless">Read More</a></td> <!--link2-->
     </tr>
-    <tr>
-      <td align="center"><a href="https://www.youtube.com/watch?v=UWn3G_PZ_fA">Trailer</a></td> <!--link1-->
-      <td align="center"><a href="https://www.youtube.com/watch?v=MXbSJmlWlX0">Trailer</a></td> <!--link2-->
-    </tr>
   </tbody>
 </table>
 
