@@ -60,12 +60,8 @@ Muhammad.ramadhan095@binus.ac.id
       <td valign="text-top">TBA </td> <!--desc-->
     </tr>
     <tr>
-      <td align="center"><a href="https://www.shevia.id/Product/SheviaFire">Read More</a></td> <!--link 3-->
-      <td align="center"><a href="https://www.shevia.id/Product/SheviaAR">Read More</a></td> <!--link 4-->
-    </tr>
-    <tr>
-      <td align="center"><a href="https://youtu.be/U301oBPnyCg">Trailer</a></td> <!--link 3-->
-      <td align="center"><a href="https://youtu.be/6mlfc1Shwas">Trailer</a></td> <!--link 4-->
+      <td align="center"><a href="">Read More</a></td> <!--link 3-->
+      <td align="center"><a href="">Read More</a></td> <!--link 4-->
     </tr>
   </tbody>
 </table>
