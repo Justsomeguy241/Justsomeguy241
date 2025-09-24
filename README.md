@@ -60,7 +60,7 @@ Muhammad.ramadhan095@binus.ac.id
       <td valign="text-top">TBA </td> <!--desc-->
     </tr>
     <tr>
-      <td align="center"><a href="">Read More</a></td> <!--link 3-->
+      <td align="center"><a href="https://github.com/Justsomeguy241/Passing-Years">Read More</a></td> <!--link 3-->
       <td align="center"><a href="">Read More</a></td> <!--link 4-->
     </tr>
   </tbody>
