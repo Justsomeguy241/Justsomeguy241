@@ -26,7 +26,7 @@ Muhammad.ramadhan095@binus.ac.id
     </tr>
     <tr>
       <td valign="text-top">TBA.</td> <!--desc-->
-      <td valign="text-top">TBA</td> <!--desc-->
+      <td valign="text-top">A 2D puzzle-platformer about a fox and a crow who must work together to solve puzzles, overcome obstacles, and flip through ever-changing levels. </td> <!--desc-->
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/Justsomeguy241/Game-ProgrammingClass">Read More</a></td> <!--link1-->
