@@ -25,7 +25,7 @@ Muhammad.ramadhan095@binus.ac.id
       </td>
     </tr>
     <tr>
-      <td valign="text-top">TBA.</td> <!--desc-->
+      <td valign="text-top">Blast your way through endless waves of alien enemies in this modern twist on a classic arcade shooter. Collect powerful upgrades that temporarily boost your weapons and abilities as you fight for survival. the longer you last, the harder it gets.</td> <!--desc-->
       <td valign="text-top">A 2D puzzle-platformer about a fox and a crow who must work together to solve puzzles, overcome obstacles, and flip through ever-changing levels. </td> <!--desc-->
     </tr>
     <tr>
