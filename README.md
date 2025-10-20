@@ -56,7 +56,7 @@ Muhammad.ramadhan095@binus.ac.id
       </td>
     </tr>
     <tr>
-      <td valign="text-top">TBA </td> <!--desc-->
+      <td valign="text-top">in life there is many things that we all can't really predict or control. that also goes into college life sometimes you will enjoy your life there but some other times it might be absolute hell but of course, in the end going to college means you want to succeed in something, be better at something and be somewhat successful in life and that is the one thing we our selves can control which is how we forge our own path </td> <!--desc-->
       <td valign="text-top">TBA </td> <!--desc-->
     </tr>
     <tr>
