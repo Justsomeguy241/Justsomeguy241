@@ -56,7 +56,7 @@ Muhammad.ramadhan095@binus.ac.id
       </td>
     </tr>
     <tr>
-      <td valign="text-top">in life there is many things that we all can't really predict or control. that also goes into college life sometimes you will enjoy your life there but some other times it might be absolute hell but of course, in the end going to college means you want to succeed in something, be better at something and be somewhat successful in life and that is the one thing we our selves can control which is how we forge our own path </td> <!--desc-->
+      <td valign="text-top">Passing Years puts you in the shoes of a first-year college student, balancing survival and academics. Manage your time, resources, and energy to stay alive, but don’t forget to study, exams come every few days, and failing to prepare could end your journey. Every choice shapes how long you survive and how well you adapt to college life. </td> <!--desc-->
       <td valign="text-top">TBA </td> <!--desc-->
     </tr>
     <tr>
