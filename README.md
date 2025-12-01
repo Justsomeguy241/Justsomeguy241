@@ -43,7 +43,7 @@ Muhammad.ramadhan095@binus.ac.id
   <thead>
     <tr>
       <th width="50%" align="center"><a>Passing Years </a></th> <!--tittle 3-->
-      <th width="50%" align="center"><a>TBA </a></th> <!--tittle 4-->
+      <th width="50%" align="center"><a>SpellType </a></th> <!--tittle 4-->
     </tr>
   </thead>
   <tbody>
@@ -57,7 +57,7 @@ Muhammad.ramadhan095@binus.ac.id
     </tr>
     <tr>
       <td valign="text-top">Passing Years puts you in the shoes of a first-year college student, balancing survival and academics. Manage your time, resources, and energy to stay alive, but don’t forget to study, exams come every few days, and failing to prepare could end your journey. Every choice shapes how long you survive and how well you adapt to college life. </td> <!--desc-->
-      <td valign="text-top">TBA </td> <!--desc-->
+      <td valign="text-top">SpellType is a turn-based typing card RPG where every action—attack, defense, and spellcasting—is performed through typing.To unleash your abilities, you must type the exact name of the spell card in your hand. But when enemies strike back, you’ll need to react fast by typing the counter word that appears to block or reduce their attack. </td> <!--desc-->
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/Justsomeguy241/Passing-Years">Read More</a></td> <!--link 3-->
