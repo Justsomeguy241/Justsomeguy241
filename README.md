@@ -52,7 +52,7 @@ Muhammad.ramadhan095@binus.ac.id
         <img src="https://github.com/Justsomeguy241/Justsomeguy241/blob/main/Godot.gif" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="" alt="2" style="width:100%;height:auto;">
+        <img src="https://github.com/Justsomeguy241/Justsomeguy241/blob/main/SpelltypeGif1.gif" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
